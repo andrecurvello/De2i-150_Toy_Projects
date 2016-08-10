@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Tue Jul 30 09:05:26 2013
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : de2i_150_qsys_pcie
+Top-level Entity Name : de2i_150_qsys_pcie
+Family : Cyclone IV GX
+Total logic elements : 13,720
+    Total combinational functions : 10,194
+    Dedicated logic registers : 8,596
+Total registers : 8596
+Total pins : 464
+Total virtual pins : 1
+Total memory bits : 579,394
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 1
+Total GXB Receiver Channel PMA : 1
+Total GXB Transmitter Channel PCS : 1
+Total GXB Transmitter Channel PMA : 1
+Total PLLs : 2

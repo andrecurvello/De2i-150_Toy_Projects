@@ -1,0 +1,9 @@
+﻿  app.c
+app.c(110): warning C4101: 'ExpectedData': unreferenced local variable
+  Generating code
+  Finished generating code
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  app.vcxproj -> C:\Users\fpga_controller\Desktop\DE2i-150 Files\Demonstrations\FPGA\PCIE_Display\windows_app_vc2012\Release\app.exe
+  app.vcxproj -> C:\Users\fpga_controller\Desktop\DE2i-150 Files\Demonstrations\FPGA\PCIE_Display\windows_app_vc2012\Release\app.pdb (Full PDB)

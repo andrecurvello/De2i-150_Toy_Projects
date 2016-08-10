@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=10007468
+eax=00000000 ebx=0022CCAC ecx=00000000 edx=00000000 esi=61328316 edi=611E7F32
+ebp=0022CC74 esp=0022CC58 program=C:\Users\fpga_controller\Desktop\DE2i-150 Files\Demonstrations\FPGA\PCIE_Display\windows_app_vc2012\Release\app2.exe, pid 1428, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC74  10007468 (00000000, 00000000, 00000224, 0022CC54)
+0022CC54  004013C4 (00000000, 00000000, 00000224, 0022CC54)
+End of stack trace

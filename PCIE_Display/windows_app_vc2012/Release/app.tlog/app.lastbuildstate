@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|Win32|C:\Users\fpga_controller\Desktop\DE2i-150 Files\Demonstrations\FPGA\PCIE_Display\windows_app_vc2012\|
